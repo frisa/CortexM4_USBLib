@@ -1,0 +1,1 @@
+cmd_/home/jan/Projects/xbproject/driver/xbdrv.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/jan/Projects/xbproject/driver/xbdrv.ko /home/jan/Projects/xbproject/driver/xbdrv.o /home/jan/Projects/xbproject/driver/xbdrv.mod.o
